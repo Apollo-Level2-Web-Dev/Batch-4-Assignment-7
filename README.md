@@ -1,5 +1,9 @@
 # Batch-4-Assignment-7
 
+## **📜 Assignment Objective**  
+
+This assignment focuses on **PostgreSQL** database operations. You will create and manage three tables (**books, customers, orders**), insert sample data, and perform essential SQL queries. Key tasks include **CRUD operations, constraints, JOINs, aggregations, filtering, and data manipulation** to reinforce your understanding of relational databases.
+
 ## **📂 Database Setup**
 
 1️⃣ **Install PostgreSQL** on your system if it is not already installed.
@@ -172,8 +176,8 @@ avg_book_price
 
 - SQL code for **table creation, sample data insertion, and all queries**.
 - **Comments** explaining the purpose of each query.
+  
 2️⃣ Save your file as **"PostgreSQL_Assignment.sql"** or another appropriate name.
-3️⃣ Submit the document according to your instructor's guidelines.
 
 ---
 
@@ -192,8 +196,33 @@ avg_book_price
 
 ---
 
-## **✅ Final Notes**
+## **✅ Steps to Follow:**  
+1. Ensure your SQL queries **execute successfully** before submission.  
+2. Add **comments** to explain complex queries where necessary.  
+3. Maintain **clean formatting and proper indentation** for better readability.  
 
-- Make sure your SQL queries **run successfully** before submitting.
-- Use **comments** to explain complex queries.
-- Focus on **clean formatting and proper indentation** for readability.
+---
+
+## **⏳ Deadline & Marks Distribution**  
+
+| Date | Marks | Deadline Time |
+|------|-------|--------------|
+| **25 March, 2025** | **60 Marks** | Until **11:59 PM** |
+| **26 March, 2025** | **50 Marks** | Until **11:59 PM** |
+| **After 26 October, 2025** | **30 Marks** | Until **11:59 PM** |
+
+---
+
+## **📂 Submission Guidelines**  
+
+🔹 Submit only the **GitHub repository link** containing your solution file.  
+
+---
+
+## **🚀 Important Notice**  
+
+Participation in this assignment is **mandatory** for all students. It lays the foundation for upcoming assignments focused on **PostgreSQL** and **Prisma**, designed for those aspiring to excel as **full-stack developers**.  
+
+Approach this task with dedication, precision, and a commitment to excellence. 
+
+**Best of luck!** 💡🔥
