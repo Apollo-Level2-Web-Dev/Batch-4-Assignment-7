@@ -145,7 +145,7 @@ avg_book_price
 
 7️⃣ **Increase the price of all books published before 2000 by 10%.**
 
-**Sample Output:***(No table output, but affected rows will be updated accordingly.)*
+**Sample Output:** *(No table output, but affected rows will be updated accordingly.)*
 
 ```markdown
 | id  | title                        | author             | price  | stock | published_year |
@@ -159,7 +159,7 @@ avg_book_price
 
 8️⃣ **Delete customers who haven't placed any orders.**
 
-**Sample Output:***(No table output, but affected rows will be removed accordingly.)*
+**Sample Output:** *(No table output, but affected rows will be removed accordingly.)*
 
 ```markdown
 | id  | name    | email              | joined_date  |
@@ -181,7 +181,7 @@ avg_book_price
 
 ---
 
-## **📂 Bonus Section (Answer Any 10 Questions on readme.md)**
+## **📂 Bonus Section (Answer Any 10 Questions on readme.md file)**
 
 1. What is PostgreSQL?
 2. What is the purpose of a database schema in PostgreSQL?
