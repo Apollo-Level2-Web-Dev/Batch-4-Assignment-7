@@ -181,7 +181,7 @@ avg_book_price
 
 ---
 
-## **📂 Bonus Section (Answer Any 10 Questions on readme.md file)**
+## **📂 Bonus Section (Answer Any 10 Questions on readme.md file in bangla)**
 
 1. What is PostgreSQL?
 2. What is the purpose of a database schema in PostgreSQL?
@@ -224,5 +224,5 @@ avg_book_price
 Participation in this assignment is **mandatory** for all students. It lays the foundation for upcoming assignments focused on **PostgreSQL** and **Prisma**, designed for those aspiring to excel as **full-stack developers**.  
 
 Approach this task with dedication, precision, and a commitment to excellence. 
-
+Plagiarism will not be tolerated. Please make sure that the code you submit is your work. Any instance of plagiarism will result in a score of 0. Additionally, if any AI-generated content or ChatGPT-generated responses are detected, the score will also be 0.
 **Best of luck!** 💡🔥
