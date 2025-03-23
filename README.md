@@ -207,9 +207,9 @@ avg_book_price
 
 | Date | Marks | Deadline Time |
 |------|-------|--------------|
-| **25 March, 2025** | **60 Marks** | Until **11:59 PM** |
-| **26 March, 2025** | **50 Marks** | Until **11:59 PM** |
-| **After 26 October, 2025** | **30 Marks** | Until **11:59 PM** |
+| **24 March, 2025** | **60 Marks** | Until **11:59 PM** |
+| **25 March, 2025** | **50 Marks** | Until **11:59 PM** |
+| **After 25 October, 2025** | **30 Marks** | Until **11:59 PM** |
 
 ---
 
